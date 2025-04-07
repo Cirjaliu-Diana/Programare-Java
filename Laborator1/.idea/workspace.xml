@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b5e8875-c745-49e7-b5cf-118989afa17a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercitiul1/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul1/enuntEx1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul2/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul2/enuntEx2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul2/in.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul2/out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul3/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul3/enuntEx3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul4/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitiul4/enuntEx4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercitul5/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b5e8875-c745-49e7-b5cf-118989afa17a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744046207838</updated>
-      <workItem from="1744046208960" duration="1972000" />
+      <workItem from="1744046208960" duration="2314000" />
     </task>
     <servers />
   </component>
