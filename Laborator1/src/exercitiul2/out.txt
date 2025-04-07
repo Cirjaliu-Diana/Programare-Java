@@ -1,0 +1,4 @@
+Suma este 27
+Medie aritmetica este 4.0
+Valoarea minim a numarului este 2
+Valoarea maxim a numarului este 8

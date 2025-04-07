@@ -1,0 +1,5 @@
+ Să se scrie un program care citește un set de numerele din fișierul de intrare in.txt, care
+conține câte un număr pe un rând, având valorile din figura 18.
+Programul va determină suma lor, media aritmetică, valoarea minimă, valoarea maximă, va afișa aceste valori pe ecran și le
+va scrie în fișierul de ieșire out.txt.
+Media aritmetică va fi afișată ca un număr real.
