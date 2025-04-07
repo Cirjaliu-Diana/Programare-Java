@@ -1,0 +1,9 @@
+Să se realizeze un program care citește numele si CNP-ul pe care îl au n persoane.
+Valoarea lui n se citește de la tastatură. Programul va afișa informațiile introduse și în plus
+pentru fiecare persoana va afișa vârsta. Cât timp un CNP-ul este introdus greșit programul va
+cere reintroducerea acestuia. Pentru simplitate se consideră că CNP-ul este valid dacă
+îndeplinește următoarele condiții:
+• Are 13 caractere
+• Toate caracterele sunt cifre
+• Prima cifră are una din valorile 1, 2, 5, 6
+• Cifra de control a CNP-ului are o valoare validă.

@@ -1,0 +1,4 @@
+Să se insereze într-o anumită poziție a unui șir de caractere, un alt șir. Datele vor fi
+preluate de la tastatură sau din fișier. Să se șteargă o porțiune a unui șir de caractere care
+începe dintr-o anumită poziție și are un anumit număr de caractere. Se recomandă utilizarea
+clasei StringBuilder.
