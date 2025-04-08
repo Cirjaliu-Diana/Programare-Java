@@ -1,0 +1,4 @@
+Produs [denumire_produs=faina, pret=2.0, cantitate=20, data_expirare=2024-03-01]
+Produs [denumire_produs=ulei, pret=1.0, cantitate=25, data_expirare=2024-03-03]
+Produs [denumire_produs=margarina, pret=0.5, cantitate=25, data_expirare=2024-03-05]
+Produs [denumire_produs=sare, pret=1.0, cantitate=10, data_expirare=2024-03-07]
