@@ -1,6 +1,8 @@
 package firmaEchipamenteElectronice;
 
-public class Echipament {
+import java.io.Serializable;
+
+public class Echipament implements Serializable {
     private String denumire;
     private int nr_inv; //nr inventar
     private float pret;
