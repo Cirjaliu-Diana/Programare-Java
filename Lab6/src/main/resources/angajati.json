@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Maria Popescu",
+    "post": "Contabil",
+    "data_angajarii": "2020-05-10",
+    "salariul": 1000.0
+  },
+  {
+    "nume": "Ion Ionescu",
+    "post": "Director Programator",
+    "data_angajarii": "2019-03-15",
+    "salariul": 7500.0
+  },
+  {
+    "nume": "Andreea Georgescu",
+    "post": "Manager",
+    "data_angajarii": "2018-01-20",
+    "salariul": 9500.0
+  },
+  {
+    "nume": "George Petrescu",
+    "post": "Tehnician",
+    "data_angajarii": "2021-07-01",
+    "salariul": 2400.0
+  },
+  {
+    "nume": "Ana Marinescu",
+    "post": "Sef Resurse Umane",
+    "data_angajarii": "2024-04-05",
+    "salariul": 4200.0
+  }
+]
