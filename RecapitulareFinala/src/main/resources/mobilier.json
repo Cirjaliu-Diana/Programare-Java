@@ -1,0 +1,111 @@
+[
+  {
+    "nume": "Birou",
+    "placi": [
+      {
+        "descriere": "blat",
+        "lungime_mm": 1200,
+        "latime_mm": 600,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "picior lateral",
+        "lungime_mm": 720,
+        "latime_mm": 500,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          false,
+          false,
+          true
+        ],
+        "nr_bucati": 2
+      }
+    ],
+    "data_adaugare": "2024-04-20"
+  },
+  {
+    "nume": "Etajera",
+    "placi": [
+      {
+        "descriere": "raft fix",
+        "lungime_mm": 800,
+        "latime_mm": 300,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "nr_bucati": 4
+      },
+      {
+        "descriere": "laterala",
+        "lungime_mm": 1800,
+        "latime_mm": 300,
+        "orientare": "LATIME",
+        "canturi": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "nr_bucati": 2
+      }
+    ],
+    "data_adaugare": "2023-07-01"
+  },
+  {
+    "nume": "Dulap",
+    "placi": [
+      {
+        "descriere": "usa",
+        "lungime_mm": 2000,
+        "latime_mm": 500,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "capac",
+        "lungime_mm": 1000,
+        "latime_mm": 600,
+        "orientare": "ORICARE",
+        "canturi": [
+          true,
+          false,
+          true,
+          false
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "raft mobil",
+        "lungime_mm": 900,
+        "latime_mm": 500,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "nr_bucati": 3
+      }
+    ],
+    "data_adaugare": "2024-03-16"
+  }
+]
