@@ -1,0 +1,142 @@
+[
+  {
+    "nume": "Vapor 1",
+    "pasageri": [
+      {
+        "nume": "Ion Popescu",
+        "varsta": 25
+      },
+      {
+        "nume": "Maria Ionescu",
+        "varsta": 34
+      },
+      {
+        "nume": "Andrei Georgescu",
+        "varsta": 28
+      },
+      {
+        "nume": "Elena Vasilescu",
+        "varsta": 42
+      },
+      {
+        "nume": "Vasile Dumitru",
+        "varsta": 55
+      }
+    ],
+    "vitDeplasare": "MARE",
+    "dataLansariiLaApa": "2023-05-15",
+    "nrMembriiEchipaj": 50
+  },
+  {
+    "nume": "Vapor 2",
+    "pasageri": [
+      {
+        "nume": "Ion Popescu",
+        "varsta": 25
+      },
+      {
+        "nume": "Maria Ionescu",
+        "varsta": 34
+      },
+      {
+        "nume": "Andrei Georgescu",
+        "varsta": 28
+      },
+      {
+        "nume": "Elena Vasilescu",
+        "varsta": 42
+      },
+      {
+        "nume": "Vasile Dumitru",
+        "varsta": 55
+      }
+    ],
+    "vitDeplasare": "MEDIE",
+    "dataLansariiLaApa": "2022-07-10",
+    "nrMembriiEchipaj": 60
+  },
+  {
+    "nume": "Vapor 3",
+    "pasageri": [
+      {
+        "nume": "Ion Popescu",
+        "varsta": 25
+      },
+      {
+        "nume": "Maria Ionescu",
+        "varsta": 34
+      },
+      {
+        "nume": "Andrei Georgescu",
+        "varsta": 28
+      },
+      {
+        "nume": "Elena Vasilescu",
+        "varsta": 42
+      },
+      {
+        "nume": "Vasile Dumitru",
+        "varsta": 55
+      }
+    ],
+    "vitDeplasare": "MARE",
+    "dataLansariiLaApa": "2024-01-22",
+    "nrMembriiEchipaj": 20
+  },
+  {
+    "nume": "Vapor 4",
+    "pasageri": [
+      {
+        "nume": "Ion Popescu",
+        "varsta": 25
+      },
+      {
+        "nume": "Maria Ionescu",
+        "varsta": 34
+      },
+      {
+        "nume": "Andrei Georgescu",
+        "varsta": 28
+      },
+      {
+        "nume": "Elena Vasilescu",
+        "varsta": 42
+      },
+      {
+        "nume": "Vasile Dumitru",
+        "varsta": 55
+      }
+    ],
+    "vitDeplasare": "MICA",
+    "dataLansariiLaApa": "2023-03-05",
+    "nrMembriiEchipaj": 30
+  },
+  {
+    "nume": "Vapor 5",
+    "pasageri": [
+      {
+        "nume": "Ion Popescu",
+        "varsta": 25
+      },
+      {
+        "nume": "Maria Ionescu",
+        "varsta": 34
+      },
+      {
+        "nume": "Andrei Georgescu",
+        "varsta": 28
+      },
+      {
+        "nume": "Elena Vasilescu",
+        "varsta": 42
+      },
+      {
+        "nume": "Vasile Dumitru",
+        "varsta": 55
+      }
+    ],
+    "vitDeplasare": "MEDIE",
+    "dataLansariiLaApa": "2021-08-30",
+    "nrMembriiEchipaj": 25
+  }
+]
